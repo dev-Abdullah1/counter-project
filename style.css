@@ -1,0 +1,45 @@
+.counter-box.text-center {
+    border: 1px solid darkblue;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 71px;
+    border-radius: 12px;
+}
+h2.counter-title {
+    font-size: 45px;
+    font-family: emoji;
+    text-transform: uppercase;
+    margin-top: 35px;
+    font-weight: bold;
+}
+
+h1#counter {
+
+    font-size: 16pc;
+    margin-bottom: 21px;
+    color: grren;
+}
+button.btn.btn-light {
+    padding: 10px 42px;
+    font-size: 18px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 12px;
+    color: rgb(255, 255, 255);
+}
+button.btn.btn-light{
+    padding: 10px 42px;
+    font-size: 18px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 12px;
+    color: black;
+}
+
+
+
